@@ -597,7 +597,12 @@ Markdown format:
  - Asymmetric Patch Sampling for Contrastive Learning
    [[pdf]](https://arxiv.org/abs/2306.02854)
    [[code]](https://github.com/visresearch/aps)
-   - Chengchao Shen, Jianzhong Chen, Shu Wang, Hulin Kuang, Jin Liu, Jianxin Wang. 
+   - Chengchao Shen, Jianzhong Chen, Shu Wang, Hulin Kuang, Jin Liu, Jianxin Wang.
+#### 2024
+ - Multi-Grained Contrast for Data-Efficient Unsupervised Representation Learning
+   [[pdf]](https://arxiv.org/abs/2407.02014) 
+   [[code]](https://github.com/visresearch/mgc)
+   - Chengchao Shen, Jianzhong Chen, Jianxin Wang. 
 
 ### Video Representation Learning
 
